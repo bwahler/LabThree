@@ -1,0 +1,7 @@
+C:\Users\bmwah\source\repos\LabThree\LabThree\obj\Debug\LabThree.csprojAssemblyReference.cache
+C:\Users\bmwah\source\repos\LabThree\LabThree\obj\Debug\LabThree.csproj.CoreCompileInputs.cache
+C:\Users\bmwah\source\repos\LabThree\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\bmwah\source\repos\LabThree\LabThree\bin\Debug\LabThree.exe
+C:\Users\bmwah\source\repos\LabThree\LabThree\bin\Debug\LabThree.pdb
+C:\Users\bmwah\source\repos\LabThree\LabThree\obj\Debug\LabThree.exe
+C:\Users\bmwah\source\repos\LabThree\LabThree\obj\Debug\LabThree.pdb
